@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends Activity {
-
+    // 哈哈哈
     private ListView lv_main;
     private CommonBaseAdapter<MyBean> adapter;
     private List<MyBean> data = new ArrayList<>();
